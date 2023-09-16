@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ankittomarhcst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankittomarhcst" height="30" width="40" /></a>
 <a href="https://www.instagram.com/learn_with_tomar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_travelling_abroad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucwf9igns10no6zmzutece6g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwf9igns10no6zmzutece6g" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCwF9iGns10no6ZmZUtEce6g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwf9igns10no6zmzutece6g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
